@@ -1,0 +1,9 @@
+1. Build
+2. Environment
+3. Test date
+4. Tester
+5. Title
+6. Subtitle
+	1. Test Type
+	2. Checking
+	3. Result
